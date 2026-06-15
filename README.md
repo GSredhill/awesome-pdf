@@ -9,6 +9,7 @@
 - [Parsers, OCR and extraction](#parsers-ocr-and-extraction)
 - [Creation and production](#creation-and-production)
 - [Readers and viewers](#readers-and-viewers)
+- [Validation and compliance](#validation-and-compliance)
 - [Datasets](#datasets)
 
 ---
@@ -51,7 +52,6 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
-- [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
 - [BentoPDF](https://www.bentopdf.com/) - A privacy-first, self-hostable PDF toolkit that manipulates, edits, merges and processes files entirely in the browser, with no server-side processing.
 
 ## Readers and viewers
@@ -61,7 +61,10 @@
 - [Sioyek](https://sioyek.info/) - PDF viewer with a focus on technical books and research papers (desktop app).
 
 
+## Validation and compliance
 
+- [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
+- [HTPBE?](https://htpbe.tech/) - A forensic tool that analyses the structural layer of a PDF to detect whether it has been modified since creation.
 
 ## Datasets
 
